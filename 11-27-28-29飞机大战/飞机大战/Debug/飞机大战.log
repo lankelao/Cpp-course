@@ -1,0 +1,24 @@
+﻿生成启动时间为 2021/11/29 22:18:17。
+     1>项目“E:\VS project\Win32Project1\飞机大战\飞机大战.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt PlaneApp\PlaneApp.cpp
+         PlaneApp.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS project\Win32Project1\Debug\飞机大战.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\VS project\Win32Project1\Debug\飞机大战.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS project\Win32Project1\Debug\飞机大战.lib" /MACHINE:X86 "Debug\飞机大战.res"
+         Debug\BackGround.obj
+         Debug\FoePlane.obj
+         Debug\FoePlaneBig.obj
+         Debug\FoePlaneBox.obj
+         Debug\FoePlaneMid.obj
+         Debug\FoePlaneSma.obj
+         Debug\WinMain.obj
+         Debug\Gunner.obj
+         Debug\GunnerBox.obj
+         Debug\PlaneApp.obj
+         Debug\PlayerPlane.obj
+         飞机大战.vcxproj -> E:\VS project\Win32Project1\Debug\飞机大战.exe
+     1>已完成生成项目“E:\VS project\Win32Project1\飞机大战\飞机大战.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.33
